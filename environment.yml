@@ -1,4 +1,4 @@
-name: RCM-environment
+name: custom-environment
 channels:
  - conda-forge
 dependencies:
