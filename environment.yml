@@ -4,7 +4,8 @@ channels:
 dependencies:
  - python>=3.5
  - matplotlib>=2.0
- - ipywidgets
  - numpy
+ - ipywidgets
+ - ipympl
  - nodejs
- - jupyter_contrib_nbextensions
+ - widgetsnbextension
