@@ -1,12 +1,4 @@
-# enable widgets in jupyterlab
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install jupyter-matplotlib
-
-# -- IGNORE --
-# jupyter contrib nbextension install --user
-# jupyter nbextension enable --py widgetsnbextension
-# jupyter nbextension enable python-markdown/main
-
-# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-# jupyter trust index.ipynb
-
+# enable widgets in jupyterlab -- can't get to work (ignore for now, since not super important)
+# if enabling, nodejs needs to be added to the conda env
+# jupyter labextension install @jupyter-widgets/jupyterlab-manager
+# jupyter labextension install jupyter-matplotlib

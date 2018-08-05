@@ -7,5 +7,4 @@ dependencies:
  - numpy
  - ipywidgets
  - ipympl
- - nodejs<=9
  - widgetsnbextension
