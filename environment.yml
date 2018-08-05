@@ -1,10 +1,10 @@
 name: RCM-environment
 channels:
-	- conda-forge
+ - conda-forge
 dependencies:
-	- python>=3.5
-	- matplotlib>=2.0
-	- ipywidgets
-	- numpy
-	- nodejs
-	- jupyter_contrib_nbextensions
+ - python>=3.5
+ - matplotlib>=2.0
+ - ipywidgets
+ - numpy
+ - nodejs
+ - jupyter_contrib_nbextensions
