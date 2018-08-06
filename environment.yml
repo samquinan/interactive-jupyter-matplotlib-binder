@@ -8,3 +8,5 @@ dependencies:
  - ipywidgets
  - ipympl
  - widgetsnbextension
+ - jupyter_contrib_nbextensions
+ 

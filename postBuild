@@ -1,3 +1,7 @@
+# enable code folding in binder
+jupyter contrib nbextension install --user
+jupyter nbextension enable codefolding/main
+
 # enable widgets in jupyterlab -- can't get to work (ignore for now, since not super important)
 # if enabling, nodejs needs to be added to the conda env
 # jupyter labextension install @jupyter-widgets/jupyterlab-manager
